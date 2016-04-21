@@ -1,0 +1,13 @@
+~*
+*~
+node_modules
+npm-debug.log*
+.DS_Store
+Thumbs.db
+hooky.json
+config.local.php
+config.local.json
+config.public.local.json
+out/*
+web/public-out/*
+!.g
